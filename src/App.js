@@ -5,14 +5,16 @@ import './App.css';
 // import Variable from './R010_Variable';
 // import SpreadOperator from './R011_SpreadOperator';
 // import ClassPrototype from './R012_Class&Prototype';
-import ArrowFunc from './R013_ArrowFunction';
+// import ArrowFunc from './R013_ArrowFunction';
+// import ForEach from './R014_ForEach';
+import Map from './R015_Map';
 
 function App() {
     return (
         <div>
             <h1>Start React 200!</h1>
             <p>CSS 적용하기</p>
-            <ArrowFunc/>
+            <Map/>
         </div>
     );
 }
